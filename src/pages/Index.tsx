@@ -28,7 +28,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <div className="flex items-center gap-4">
-                <img src="/logo.svg" alt="Logo" width={150} height={150} />
+                <img src="/padevs-hmtl/logo.svg" alt="Logo" width={150} height={150} />
                 <p className="text-sm text-gray-600">A melhor escola de programação do Brasil</p>
               </div>
             </div>
