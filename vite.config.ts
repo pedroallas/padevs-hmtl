@@ -11,4 +11,7 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  optimizeDeps: {
+    include: ['@radix-ui/react-tabs', '@radix-ui/react-slot', '@radix-ui/react-tooltip']
+  }
 });
